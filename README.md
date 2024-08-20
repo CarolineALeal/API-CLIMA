@@ -26,3 +26,13 @@ Este é um projeto simples de uma API para consulta de clima, utilizando a [API 
   - `scripts.js`: Script principal que lida com a lógica de consulta à API e manipulação da DOM.
 - **config.json**: Arquivo de configuração que armazena a chave da API (ignorado no controle de versão para segurança).
 - **.env**: Arquivo de ambiente (opcional, ignorado no controle de versão).
+
+## Deploy
+
+O projeto está disponível online e pode ser acessado através do seguinte link:
+
+[Clima - Consulta de Clima por Cidade](https://66c3f330603491821ed4efcb--startling-lamington-ef420a.netlify.app/)
+
+---
+
+**Autor**: [Caroline Leal](https://github.com/CarolineALeal)
